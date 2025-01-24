@@ -28,7 +28,7 @@ if someone comes to this repo they'll know what the project is about.
 
 ## [Development](DEVELOPMENT.md)
 
-Instructions on setting up the development environment and working with the code are in [the development guide](DEVELOPMENT.md).
+Instructions on setting up the development environment and working with the code are in [the development guide](DEVELOPMENT.md). This includes how to seed the database.
 
 ### Common commands
 
